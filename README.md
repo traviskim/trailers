@@ -32,8 +32,10 @@
  [ ] Apply MVVM pattern with ViewModel in Google's new Archetecture components
 
 ## Video
+![](record/record.gif)
 
 ## Download apk
+To be uploaded
 
 ## Open-source libraries used
 
