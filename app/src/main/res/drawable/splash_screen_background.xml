@@ -3,7 +3,7 @@
 
     <item android:drawable="@drawable/gradient_splash"/>
 
-    <item android:width="63dp" android:height="60dp">
+    <item>
         <bitmap
             android:gravity="center"
             android:src="@drawable/ic_splash"/>
