@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trailers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="no_network_connected">No Network Connected</string>
+    <string name="cast_profile">cast profile</string>
+    <string name="cast_and_crew"><![CDATA[CAST & CREW]]></string>
+    <string name="imdb_label">IMDB label</string>
+    <string name="share">Share</string>
+    <string name="base_url_genres">https://private-anon-f5c1bf0c0c-iosinterview1.apiary-mock.com/</string>
+    <string name="base_url_profile">http://private-anon-f5c1bf0c0c-iosinterview1.apiary-mock.com/</string>
+    <string name="title_tailers">TAILERS</string>
+    <string name="title_profile">PROFILE</string>
+</resources>
